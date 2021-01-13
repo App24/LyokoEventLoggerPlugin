@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLoggerPlugin", "EventLoggerPlugin\EventLoggerPlugin.csproj", "{1454CF43-481C-49D6-884E-1F4EAEA724BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1454CF43-481C-49D6-884E-1F4EAEA724BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1454CF43-481C-49D6-884E-1F4EAEA724BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1454CF43-481C-49D6-884E-1F4EAEA724BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1454CF43-481C-49D6-884E-1F4EAEA724BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BD25307-8999-4614-A16A-79A6EFA56804}
+	EndGlobalSection
+EndGlobal
